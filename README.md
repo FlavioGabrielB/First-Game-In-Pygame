@@ -1,2 +1,4 @@
-"# Fist-Game-In-Pygame" 
-"# First-Game-In-Pygame" 
+## My first game in pygame
+
+ 
+
